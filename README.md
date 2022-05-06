@@ -12,7 +12,7 @@ You can view my repo here
 
 Bahadır Bünül (bahadirbunul)
 
-<img src="img.jpg">
+<img src="images/demoimg.jpg">
 
 
 
