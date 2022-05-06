@@ -14,7 +14,7 @@ Bahadır Bünül (bahadirbunul)
 
 
 <video controls="controls">
-  <source src="images/demo.mp4" type="video/mp4" />
+  <source src="demo.mp4" type="video/mp4" />
 </video>
 
 
