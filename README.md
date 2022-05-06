@@ -12,7 +12,8 @@ You can view my repo here
 
 Bahadır Bünül (bahadirbunul)
 
-<img src="images/demoimg.jpg">
+
+<img src="images/ss1.jpeg" width= 200px>
 
 
 
