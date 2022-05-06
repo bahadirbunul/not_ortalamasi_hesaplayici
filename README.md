@@ -12,9 +12,7 @@ You can view my repo here
 
 Bahadır Bünül (bahadirbunul)
 
+<img src="img.jpg">
 
-<video controls="controls">
-  <source src="demo.mp4" type="video/mp4" />
-</video>
 
 
